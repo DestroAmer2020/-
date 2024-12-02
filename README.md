@@ -1,4 +1,4 @@
-Hometask #1 (29/08)
+Hometask #1
 - Create repo hometask1 (do not forget .gitignore)
 - Create Vagrantfile
 - Centos generic/centos9s
