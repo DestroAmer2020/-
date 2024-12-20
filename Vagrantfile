@@ -23,6 +23,6 @@ Vagrant.configure("2") do |config|
     systemctl disable firewalld
   SHELL
 
-  config.vm.synced_folder "/www-content", "/usr/share/nginx/html"
+  config.vm.synced_folder "D:\urok\Mine from Univer or School\itstepuniver\ThirdCourse\IHT\hometask1\www-content", "/usr/share/nginx/html"
 end
 
